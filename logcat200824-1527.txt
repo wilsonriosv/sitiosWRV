@@ -1,0 +1,30 @@
+08-20 15:19:54.707 22641 29005 E ReactNativeJS: TypeError: Cannot read property 'NativeModule' of undefined, js engine: hermes
+08-20 15:19:54.772 22641 29005 I ReactNativeJS: Running "sitiosWRV" with {"rootTag":11}
+08-20 15:19:54.774 22641 29005 E ReactNativeJS: Invariant Violation: "sitiosWRV" has not been registered. This can happen if:
+08-20 15:19:54.774 22641 29005 E ReactNativeJS: * Metro (the local dev server) is run from the wrong folder. Check if Metro is running, stop it and restart it in the current project.
+08-20 15:19:54.774 22641 29005 E ReactNativeJS: * A module failed to load due to an error and `AppRegistry.registerComponent` wasn't called., js engine: hermes
+08-20 15:24:06.471 22641 29989 E ReactNativeJS: TypeError: Cannot read property 'NativeModule' of undefined, js engine: hermes
+08-20 15:24:06.533 22641 29989 I ReactNativeJS: Running "sitiosWRV" with {"rootTag":41}
+08-20 15:24:06.535 22641 29989 E ReactNativeJS: Invariant Violation: "sitiosWRV" has not been registered. This can happen if:
+08-20 15:24:06.535 22641 29989 E ReactNativeJS: * Metro (the local dev server) is run from the wrong folder. Check if Metro is running, stop it and restart it in the current project.
+08-20 15:24:06.535 22641 29989 E ReactNativeJS: * A module failed to load due to an error and `AppRegistry.registerComponent` wasn't called., js engine: hermes
+08-20 15:44:04.500  6001  6061 E ReactNativeJS: TypeError: Cannot read property 'NativeModule' of undefined, js engine: hermes
+08-20 15:44:04.602  6001  6061 I ReactNativeJS: Running "sitiosWRV" with {"rootTag":11}
+08-20 15:44:04.605  6001  6061 E ReactNativeJS: Invariant Violation: "sitiosWRV" has not been registered. This can happen if:
+08-20 15:44:04.605  6001  6061 E ReactNativeJS: * Metro (the local dev server) is run from the wrong folder. Check if Metro is running, stop it and restart it in the current project.
+08-20 15:44:04.605  6001  6061 E ReactNativeJS: * A module failed to load due to an error and `AppRegistry.registerComponent` wasn't called., js engine: hermes
+08-20 15:46:19.515  6001  6969 E ReactNativeJS: TypeError: Cannot read property 'NativeModule' of undefined, js engine: hermes
+08-20 15:46:19.577  6001  6969 I ReactNativeJS: Running "sitiosWRV" with {"rootTag":41}
+08-20 15:46:19.579  6001  6969 E ReactNativeJS: Invariant Violation: "sitiosWRV" has not been registered. This can happen if:
+08-20 15:46:19.579  6001  6969 E ReactNativeJS: * Metro (the local dev server) is run from the wrong folder. Check if Metro is running, stop it and restart it in the current project.
+08-20 15:46:19.579  6001  6969 E ReactNativeJS: * A module failed to load due to an error and `AppRegistry.registerComponent` wasn't called., js engine: hermes
+08-20 15:46:28.295  6001  7150 E ReactNativeJS: TypeError: Cannot read property 'NativeModule' of undefined, js engine: hermes
+08-20 15:46:28.368  6001  7150 I ReactNativeJS: Running "sitiosWRV" with {"rootTag":71}
+08-20 15:46:28.370  6001  7150 E ReactNativeJS: Invariant Violation: "sitiosWRV" has not been registered. This can happen if:
+08-20 15:46:28.370  6001  7150 E ReactNativeJS: * Metro (the local dev server) is run from the wrong folder. Check if Metro is running, stop it and restart it in the current project.
+08-20 15:46:28.370  6001  7150 E ReactNativeJS: * A module failed to load due to an error and `AppRegistry.registerComponent` wasn't called., js engine: hermes
+08-20 15:46:29.163  6001  7164 E ReactNativeJS: TypeError: Cannot read property 'NativeModule' of undefined, js engine: hermes
+08-20 15:46:29.229  6001  7164 I ReactNativeJS: Running "sitiosWRV" with {"rootTag":91}
+08-20 15:46:29.230  6001  7164 E ReactNativeJS: Invariant Violation: "sitiosWRV" has not been registered. This can happen if:
+08-20 15:46:29.230  6001  7164 E ReactNativeJS: * Metro (the local dev server) is run from the wrong folder. Check if Metro is running, stop it and restart it in the current project.
+08-20 15:46:29.230  6001  7164 E ReactNativeJS: * A module failed to load due to an error and `AppRegistry.registerComponent` wasn't called., js engine: hermes

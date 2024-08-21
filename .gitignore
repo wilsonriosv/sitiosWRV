@@ -5,6 +5,9 @@
 # Firebase
 firebase*
 
+#Google service
+google-services*
+
 # Xcode
 #
 build/
